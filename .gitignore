@@ -12,18 +12,17 @@ env/
 # PyCharm
 .idea/
 
-# Model weights
+# Model weights (binary, not code)
 *.pth
 *.pt
 *.ckpt
 *.bin
 
-# Data and memory files
+# Audio/Video (generated)
 *.wav
 *.mp4
 *.avi
-*.csv
-memory/
+*.mkv
 
 # Cache
 .cache/
