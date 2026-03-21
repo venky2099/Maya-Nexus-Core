@@ -1,0 +1,37 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# PyCharm
+.idea/
+
+# Model weights
+*.pth
+*.pt
+*.ckpt
+*.bin
+
+# Data and memory files
+*.wav
+*.mp4
+*.avi
+*.csv
+memory/
+
+# Cache
+.cache/
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
