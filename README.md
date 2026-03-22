@@ -324,6 +324,16 @@ Nexus Learning Labs, Bengaluru, India
 - LinkedIn: [linkedin.com/in/vensimlee](https://linkedin.com/in/vensimlee)
 - YouTube: [@vensimlee](https://youtube.com/@vensimlee)
 
+## Related Work
+
+**Paper 2 — Maya-OS**
+
+> Swaminathan, V. (2026). Maya-OS: An Affective Spiking Neural Network as a Conversational Operating System Arbitration Layer.
+> GitHub: https://github.com/venky2099/Maya-OS
+> DOI: https://doi.org/10.5281/zenodo.19160123
+
+Maya-OS extends the four-neuron affective architecture from this repository into a live OS arbitration context — the same LIF neurons, same weight matrix structure, transposed from controlled SNN experimentation to real-time process scheduling on Windows 11.
+
 ---
 
 *Maya does not simulate emotion. She remembers how a feeling feels.*
