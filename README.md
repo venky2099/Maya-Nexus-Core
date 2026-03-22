@@ -8,7 +8,7 @@
 This repository contains the complete codebase for the paper:
 
 > **"Nociceptive Metaplasticity and Graceful Decay in Spiking Neural Networks: Towards Survival-Driven Continual Learning"**
-> Venkatesh Swaminathan — Nexus Learning Labs / BITS Pilani (M.Sc. Data Science and AI)
+> Venkatesh Swaminathan — Nexus Learning Labs / BITS Pilani (M.Sc. candidate, Data Science and AI)
 
 Maya is not a classifier. She is an affective spiking neural architecture — four LIF neurons, each representing a distinct emotional-cognitive dimension, connected by a learned 4×4 synaptic weight matrix. The system demonstrates that pain signals can simultaneously trigger accelerated synaptic rewriting on specific pathways (metaplasticity) while a wisdom-governed decay mechanism selectively erases unimportant connections (heterosynaptic graceful decay). The asymmetry between pain-protected and unprotected synapses — operating on the same weight matrix, in the same timestep — constitutes the primary novel contribution of this work.
 **Preprint DOI:** [10.5281/zenodo.19151563](https://zenodo.org/records/19151563)
@@ -317,7 +317,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ## Author
 
 **Venkatesh Swaminathan**
-M.Sc. Data Science and Artificial Intelligence, BITS Pilani
+M.Sc. candidate, Data Science and Artificial Intelligence, BITS Pilani
 Nexus Learning Labs, Bengaluru, India
 
 - GitHub: [@venky2099](https://github.com/venky2099)
